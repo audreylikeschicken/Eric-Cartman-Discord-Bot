@@ -8,7 +8,7 @@ client.once('ready', () => {
 });
 
 
-client.login('MTEyMzc2MTc1OTIyNDg3MzEwMA.GIkA2D.3GxCjiquRYr8vvNQrh46Hp4pjuXzT-vk4G4WMQ');
+client.login('Your Token Here');
 
 
 
